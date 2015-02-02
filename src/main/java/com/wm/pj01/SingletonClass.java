@@ -19,4 +19,10 @@ public class SingletonClass {
     }*/
 
     //两次加锁
+    public static void main(String[] args) {
+//        String line = MyException.find.getBytes("中国人");
+//        System.out.println(line);
+       // System.getProperties().list(System.out);
+        System.out.println(System.getProperty("java.class.path"));
+    }
 }

@@ -3,12 +3,26 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../Pj03" />
+    <file type="web" url="file://$PROJECT_DIR$/../Pj04" />
+    <file type="web" url="file://$PROJECT_DIR$/../WebApp1" />
+  </component>
   <component name="IdProvider" IDEtalkID="20A7094587DAACCC70496EC952703D83" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../Pj03/pom.xml" />
+        <option value="$PROJECT_DIR$/../WebApp1/pom.xml" />
+        <option value="$PROJECT_DIR$/../shopbusiness-beans/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../HelloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/../HelloWrold/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">

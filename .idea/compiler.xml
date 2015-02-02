@@ -23,11 +23,22 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="PJ01" />
-        <module name="pj01" />
+        <module name="pj04" />
+        <module name="Pj04" />
+        <module name="shopbusiness-api" />
+        <module name="shopbusiness-biz" />
+        <module name="WebApp1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="HelloWorld" target="1.6" />
       <module name="pj01" target="1.6" />
+      <module name="Pj03" target="1.5" />
+      <module name="pj04" target="1.5" />
+      <module name="Pj04" target="1.5" />
+      <module name="shopbusiness-api" target="1.6" />
+      <module name="shopbusiness-beans" target="1.6" />
+      <module name="shopbusiness-biz" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
